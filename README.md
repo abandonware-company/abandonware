@@ -1,6 +1,6 @@
 # The Abandonware Company
 
-Don't mind the cobwebs.
+Don't mind the dust.
 
 | | |
 |---|---|
