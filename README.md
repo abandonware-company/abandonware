@@ -1,6 +1,6 @@
 # The Abandonware Company
 
-Projects by a single engineer. Repos going public soon.
+Don't mind the cobwebs.
 
 | | |
 |---|---|
